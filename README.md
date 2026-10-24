@@ -2,7 +2,6 @@
 
 An interactive Power BI dashboard that analyzes sales, profit, and customer purchasing patterns for an Indian e-commerce retailer. It shows where revenue turns into profit, and in which months, states, and payment modes it does not.
 
-![Dashboard overview](images/dashboard_overview.png)
 
 ## Business Problem
 An online retailer can have healthy sales and still earn very little profit. Managers need to know which months, categories, and regions make money, and how customers pay, so they can decide where to focus inventory, marketing, and operations.
