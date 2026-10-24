@@ -56,7 +56,8 @@ Figures below are read from the dashboard. Values marked "approx." are estimated
 1. Download `MAHADEV SALES.pbix` from this repository.
 2. Open it in Power BI Desktop.
 3. [Note the data file location, and whether refresh is needed.]
-<img width="1339" height="738" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/8605f175-fd06-4a45-97e4-1654e4ea4dc5" />
+<img width="1057" height="597" alt="Screenshot 2026-10-24 193626" src="https://github.com/user-attachments/assets/320d7ee7-aa82-4017-bd16-70666b4c0227" />
+
 
 
 ## Skills Demonstrated
